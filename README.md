@@ -1,6 +1,6 @@
 # ELMo From Scratch
 
-This project is a simplified implementation of **ELMo (Embeddings from Language Models)** using PyTorch.
+This project is a simplified implementation of **[ELMo](https://github.com/adi18-ui/ELMo-fron-scratch/blob/main/ELMo%20paper.pdf)(Embeddings from Language Models)** using PyTorch.
 
 The model creates contextual word embeddings, meaning that the representation of a word changes according to the sentence in which it appears.
 
