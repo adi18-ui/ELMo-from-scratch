@@ -39,4 +39,6 @@ The forward LSTM predicts the next word(left -> right direction), while the back
 
 ## Note
 
-This is a simplified implementation created from scratch to understand how ELMo works. It does not reproduce every detail of the original large ELMo architecture. The model is trained only for 100 epochs and fewer LSTM units because of GPU limitations.
+The 1st version is a simplified implementation created from scratch to understand how ELMo works. It does not reproduce every detail of the original large ELMo architecture. The model is trained only for 100 epochs and with fewer LSTM units because of GPU limitations.
+
+
