@@ -40,8 +40,8 @@ The forward LSTM predicts the next word(left -> right direction), while the back
 
 ## Note
 
-The [1st version](https://github.com/adi18-ui/ELMo-from-scratch/blob/main/ELMo.ipynb) is a simplified implementation created from scratch to understand how ELMo works. It does not reproduce every detail of the original large ELMo architecture. The model is trained only for 100 epochs and with fewer LSTM units because of GPU limitations.
+The [1st version](https://github.com/adi18-ui/ELMo-from-scratch/blob/main/ELMo_v1.ipynb) is a simplified implementation created from scratch to understand how ELMo works. It does not reproduce every detail of the original large ELMo architecture. The model is trained only for 100 epochs and with fewer LSTM units because of GPU limitations.
 
-The [2nd version](https://github.com/adi18-ui/ELMo-from-scratch/blob/main/ELMo_1b_dataset_weight.ipynb) is the exact implementation of the ELMo paper, with the same hyperparameters and dataset. The model was trained for 15 epochs.
+The [2nd version](https://github.com/adi18-ui/ELMo-from-scratch/blob/main/ELMo_1b_word_dataset.ipynb) is the exact implementation of the ELMo paper, with the same hyperparameters and dataset. The model was trained for 15 epochs.
 
 
