@@ -6,7 +6,8 @@ The model creates contextual word embeddings, meaning that the representation of
 
 ## Dataset
 
-The model was trained using the **[WikiText-2 Raw dataset](https://huggingface.co/datasets/Salesforce/wikitext)(only a subsection of it, not the full dataset)**. It contains text collected from Wikipedia articles and is commonly used for language-modelling experiments.
+The 1st version of the Model was trained using the [WikiText-2 Raw dataset](https://huggingface.co/datasets/Salesforce/wikitext)
+2nd version is trained on the original dataset used in the paper, [1 Billion Word Language Model Benchmark]"https://www.statmt.org/lm-benchmark/"
 
 ## Architecture
 
